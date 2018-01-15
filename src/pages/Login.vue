@@ -1,5 +1,5 @@
 <template>
-	<div class="limiter" style="background-image: url('static/bg-01.jpg');">
+	<div class="limiter">
 		<div class="container-login100">
 			<div class="wrap-login100">
 				<div class="login100-form validate-form">
@@ -13,6 +13,7 @@
 
 					<div class="container-login100-form-btn">
 						<button class="login100-form-btn" v-on:click="login()">
+              <i class="fa fa-twitter login-icon" aria-hidden="true"></i>
 							Login
 						</button>
 					</div>
@@ -66,6 +67,11 @@ export default {
 }
 
 /* login */
+.login-icon {
+  font-size: 25px;
+  padding-right: 10px;
+}
+
 .limiter {
   width: 100%;
   margin: 0 auto;
@@ -107,7 +113,7 @@ export default {
   overflow: hidden;
   padding: 55px;
 
-  background: #15116a;
+  background: #0275d8;
 }
 
 /* form */
