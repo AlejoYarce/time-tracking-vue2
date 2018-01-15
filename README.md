@@ -37,6 +37,20 @@ const config = {
 - **firebase-config.js**
 - **main.js**
 
+## Home
+## ![alt text](https://raw.githubusercontent.com/AlejoYarce/time-tracking-vue2/master/src/assets/Home_1.png)
+
+## ![alt text](https://raw.githubusercontent.com/AlejoYarce/time-tracking-vue2/master/src/assets/Home_2.png)
+
+## ![alt text](https://raw.githubusercontent.com/AlejoYarce/time-tracking-vue2/master/src/assets/Home_3.png)
+
+## ![alt text](https://raw.githubusercontent.com/AlejoYarce/time-tracking-vue2/master/src/assets/Home_4.png)
+
+## ![alt text](https://raw.githubusercontent.com/AlejoYarce/time-tracking-vue2/master/src/assets/Home_5.png)
+
+## ![alt text](https://raw.githubusercontent.com/AlejoYarce/time-tracking-vue2/master/src/assets/Home_6.png)
+
+## ![alt text](https://raw.githubusercontent.com/AlejoYarce/time-tracking-vue2/master/src/assets/Home_7.png)
 
 ## Build Setup
 
